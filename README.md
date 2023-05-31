@@ -4,11 +4,11 @@ The system also enables the administration of course, room, and student registra
 
 **Admin Login Details**
 * Username: admin
-* Password: ( check YouTube video )
-#
+* Password: password@123
+* **Student Login Details**
+*  Username: dipeshgoyal@gmail.com
+*  Password: 12345678
 # Hostel-Management-System
-# Hostel-Management-System
-# Hostel-Management-System
+
 # HOSTEL-ROOM-ALLOCATION-SYSTEM-2
-# HOSTEL-ROOM-ALLOCATION-SYSTEM-2
-# HOSTEL-ROOM-ALLOCATION-SYSTEM-2
+
